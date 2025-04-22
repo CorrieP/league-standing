@@ -8,8 +8,8 @@ The League Standings Calculator is a Java application that processes match resul
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/league-standings-calculator.git
-cd league-standings-calculator
+git clone https://github.com/CorrieP/league-standing.git
+cd league-standing
 
 # Build the project
 mvn clean install
